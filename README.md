@@ -1,3 +1,5 @@
+![Captura de tela de 2024-07-01 21-21-26](https://github.com/Kryloness/rcks-mySkills/assets/141275493/400b3cb0-946b-4439-b8e1-48b1abe4818f)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
