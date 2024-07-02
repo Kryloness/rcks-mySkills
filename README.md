@@ -46,6 +46,8 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-![Captura de tela de 2024-07-01 21-21-26](https://github.com/Kryloness/rcks-mySkills/assets/141275493/400b3cb0-946b-4439-b8e1-48b1abe4818f)
-
+<div align="center">
+  <h3>APP PREVIEW:</h3>
+  <img src="https://github.com/Kryloness/rcks-mySkills/assets/141275493/29007024-460c-47cf-b6cc-a2ae7010e67c"
+</div>
 
