@@ -1,5 +1,3 @@
-![Captura de tela de 2024-07-01 21-21-26](https://github.com/Kryloness/rcks-mySkills/assets/141275493/400b3cb0-946b-4439-b8e1-48b1abe4818f)
-
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -47,5 +45,7 @@ yarn ios
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+
+![Captura de tela de 2024-07-01 21-21-26](https://github.com/Kryloness/rcks-mySkills/assets/141275493/400b3cb0-946b-4439-b8e1-48b1abe4818f)
 
 
